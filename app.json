@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/userStart/userStart",
+    "pages/index/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#b3d4db",
+    "navigationBarTitleText": "赏花在山理",
+    "navigationBarTextStyle": "white",
+    "enablePullDownRefresh": false
+  },
+  "debug": true
+}
